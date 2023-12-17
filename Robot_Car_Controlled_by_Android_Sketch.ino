@@ -5,7 +5,7 @@ Before uploading the code you have to install the "Adafruit Motor Shield"
 library
 Open Arduino IDE >> Go to sketch >> Include Libray >> Manage Librariess... >> 
 Search "Adafruit Motor Shield" >> Install the Library
-AFMotor Library: https://learn.adafruit.com/adafruit-motor-shield/libraryinstall
+AFMotor Library: https://learn.adafruit.com/adafruit-motor-shield/library install
 Author: Make DIY
 Author URL: https://circuitbest.com/author/admin/
 Description: This program is used to control a robot using an app that 
