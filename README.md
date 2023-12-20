@@ -20,3 +20,5 @@ Components Required:-
 - 10MM White LEDs, 8MM Red LEDs
 - 180ohm Resistors
 - Wires, Soldering Iron, Glue Gun / Double-Sided Tape, Zip Tie(optional), Heat Shrink Tube(optional)
+
+#Note: Remove the Connection from BT Module while uploading the code in Arduino.
